@@ -1,0 +1,22 @@
+    * {
+        margin: auto;
+    }
+    
+    td:nth-child(odd) {
+        text-transform: uppercase;
+    }
+    
+    table {
+        background-color: blueviolet;
+        color: white;
+        padding: 10px;
+    }
+    
+    h1 {
+        text-align: center;
+        color: royalblue;
+    }
+    
+    img {
+        margin-left: 450px;
+    }
